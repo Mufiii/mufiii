@@ -3,7 +3,7 @@ Hi <br>
 ~ I am Mufees Rahman , Nice Meeting you ! 😄 😎<br><br>
 ~ I am a self-taught programmer <br>
 ~ I construct, dismantle, and innovate disruptive creations. 💡<br>
-~ How to reach me : rahmanofficial003@gmail.com 
+~ How to reach me : rahmanofficial003@gmail.com  <br>
 ~ Unveiling the hidden truths, embracing complexity, and navigating the nuances lie at the heart of my quest. How I wield those truths is yet to be revealed. 
   However, I assure you, my presence will add an ornate touch. As a respectful and observant companion on your path, I honor the sanctity of truth.
 
