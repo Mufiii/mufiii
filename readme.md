@@ -10,14 +10,6 @@ Hi there 👋🏻 <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=mufiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mufiii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=15&order=3" height="220" alt="streak graph"  />
-</div>
-
 ###
 
 <h4 align="left">🤝 Feel free to explore my repositories and projects to gain insights into my skills and capabilities as a Django developer. If you have any inquiries or collaboration opportunities, I'm always open to a friendly conversation!</h4>
