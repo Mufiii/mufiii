@@ -1,6 +1,5 @@
 Hi there 👋🏻 <br>
-
-- I am Mufees Rahman , Nice Meeting you ! 😄 😎<br>
+I am Mufees Rahman , Nice Meeting you ! 😄 😎<br>
 - I am a self-taught programmer <br>
 - I construct, dismantle, and innovate disruptive creations. 💡<br>
 - How to reach me : rahmanofficial003@gmail.com  <br>
